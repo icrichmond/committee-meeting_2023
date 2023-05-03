@@ -16,7 +16,7 @@ format:
 2.  What I am planning to do this upcoming year
 3.  Discussion points
 
-## The past year: academic
+## Past year: academic
 
 -   Presented at CSEE-ESA (Ch 1)
 -   Ran a 4 month field season in Montréal (Ch 2)
@@ -25,7 +25,7 @@ format:
 -   Switched projects for ch 3 + planned (planning) a field season
 -   Did my first two peer reviews, with Carly
 
-## The past year: side projects
+## Past year: side projects
 
 -   Submitted two papers (BSc work)
 
@@ -35,7 +35,7 @@ format:
 
     -   Using the data from this project to write a separate paper with Hiên's team and Carly
 
-## The past year: teaching
+## Past year: teaching
 
 -   Currently TAing with Carly as part of the "Infusing Black Scholarship" pilot program
 
@@ -43,7 +43,7 @@ format:
 
 -   Completed the Graduate Seminar in Teaching offered by CTL
 
-## The past year: outreach
+## Past year: outreach
 
 -   Regular Skype-a-Scientist meetings around the world
 
@@ -53,7 +53,7 @@ format:
 
 -   Concordia's 4th space interview with Carly
 
-## The past year: service
+## Past year: service
 
 -   Graduate student mentor for the biology department
 
@@ -75,4 +75,4 @@ format:
 
 -   & progress on all side projects and Ch 1 (of course!)
 
-## Discussion: Chapter 3
+## Discussion: chapter 3
