@@ -1,6 +1,6 @@
 ---
-title: "Committee Meeting"
-author: Isabella Richmond, PhD Candidate
+title: "Committee Meeting #2"
+author: Isabella C. Richmond, PhD Candidate
 date: May 5, 2023
 format: 
   revealjs:
@@ -11,3 +11,68 @@ format:
 ---
 
 ## Structure
+
+1.  What I've done this year
+2.  What I am planning to do this upcoming year
+3.  Discussion points
+
+## The past year
+
+*Academic*
+
+-   presented at CSEE-ESA (Ch 1)
+-   ran a 4 month field season in Montréal (Ch 2)
+    -   mentored two undergraduates, one honours + one Mitacs intern
+-   completed data collection and cleaning for chapter 1
+-   switched projects for ch 3 + planned (planning) a field season
+-   did my first two peer reviews, with Carly
+
+## The past year
+
+*Side projects*
+
+-   submitted two papers (BSc work)
+
+-   assisted Victoria Jepson with field work, administering surveys in Ville Saint-Laurent
+
+-   started collaborating on a national project (UQAM/UBC/UofT/Concordia) to assess residents' perceptions of urban trees
+
+    -   using the data from this project to write a separate paper with Hiên's team and Carly
+
+## The past year
+
+*Teaching*
+
+-   currently TAing with Carly as part of the "Infusing Black Scholarship" pilot program
+
+-   completed two guest lectures
+
+-   completed the Graduate Seminar in Teaching offered by CTL
+
+## The past year
+
+*Outreach*
+
+-   regular Skype-a-Scientist meetings around the world
+
+-   delivered a tree identification workshop to Sinclar Laird Elementary School (Parc-Ex)
+
+-   did an interview with Carly for Radio-Canada on urban heat islands
+
+-   Concordia's 4th space interview with Carly
+
+## The past year
+
+*Service*
+
+-   Graduate student mentor for the biology department
+
+-   Graduate student representative for the Council of the School of Graduate Studies & Steering Committee
+
+-   Graduate student representative for the Concordia Student Tribunal Pool
+
+-   Graduate student representative for the Concordia Graduate Curriculum Committee
+
+## Upcoming Year
+
+-   
