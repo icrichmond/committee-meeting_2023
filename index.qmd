@@ -1,0 +1,13 @@
+---
+title: "Committee Meeting"
+author: Isabella Richmond, PhD Candidate
+date: May 5, 2023
+format: 
+  revealjs:
+    theme: simple
+    incremental: true
+    slide-number: c
+    show-slide-number: all
+---
+
+## Structure
