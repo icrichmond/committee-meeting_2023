@@ -20,44 +20,44 @@ format:
 
 *Academic*
 
--   presented at CSEE-ESA (Ch 1)
--   ran a 4 month field season in Montréal (Ch 2)
-    -   mentored two undergraduates, one honours + one Mitacs intern
--   completed data collection and cleaning for chapter 1
--   switched projects for ch 3 + planned (planning) a field season
--   did my first two peer reviews, with Carly
+-   Presented at CSEE-ESA (Ch 1)
+-   Ran a 4 month field season in Montréal (Ch 2)
+    -   Mentored two undergraduates, one honours + one Mitacs intern
+-   Completed data collection and cleaning for chapter 1
+-   Switched projects for ch 3 + planned (planning) a field season
+-   Did my first two peer reviews, with Carly
 
 ## The past year
 
 *Side projects*
 
--   submitted two papers (BSc work)
+-   Submitted two papers (BSc work)
 
--   assisted Victoria Jepson with field work, administering surveys in Ville Saint-Laurent
+-   Assisted Victoria Jepson (PhD, INRS) with field work, administering surveys in Ville Saint-Laurent
 
--   started collaborating on a national project (UQAM/UBC/UofT/Concordia) to assess residents' perceptions of urban trees
+-   Started collaborating on a national project (UQAM/UBC/UofT/Concordia) to assess residents' perceptions of urban trees
 
-    -   using the data from this project to write a separate paper with Hiên's team and Carly
+    -   Using the data from this project to write a separate paper with Hiên's team and Carly
 
 ## The past year
 
 *Teaching*
 
--   currently TAing with Carly as part of the "Infusing Black Scholarship" pilot program
+-   Currently TAing with Carly as part of the "Infusing Black Scholarship" pilot program
 
--   completed two guest lectures
+-   Completed two guest lectures
 
--   completed the Graduate Seminar in Teaching offered by CTL
+-   Completed the Graduate Seminar in Teaching offered by CTL
 
 ## The past year
 
 *Outreach*
 
--   regular Skype-a-Scientist meetings around the world
+-   Regular Skype-a-Scientist meetings around the world
 
--   delivered a tree identification workshop to Sinclar Laird Elementary School (Parc-Ex)
+-   Delivered a tree identification workshop to Sinclar Laird Elementary School (Parc-Ex)
 
--   did an interview with Carly for Radio-Canada on urban heat islands
+-   Did an interview with Carly for Radio-Canada on urban heat islands
 
 -   Concordia's 4th space interview with Carly
 
@@ -75,4 +75,14 @@ format:
 
 ## Upcoming Year
 
--   
+-   Poster presentation at CSEE (Ch 1)
+
+-   Deploying temperature sensors for Ch 2 temperature data this summer
+
+-   Executing a field season for Ch 3 with UdeM and UQAM teams in Montreal and Trois-Rivières
+
+-   Submitting Ch 2 to a special issue this fall
+
+-   & progress on all side projects and Ch 1 (of course!)
+
+## Discussion - Chapter 3
