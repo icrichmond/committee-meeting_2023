@@ -75,4 +75,63 @@ format:
 
 -   & progress on all side projects and Ch 1 (of course!)
 
-## Discussion: chapter 3
+## Chapter 3: updates
+
+Previous research question: what are the legacy effects of past urban form decisions and how do they interact with gentrification to influence the urban forest composition in current neighbourhoods?
+
+-   proposed during my comps
+
+-   have switched the project to be contributing to a larger grant/collaboration between Hiên, Carly, and Danielle Dagenais (UdeM)
+
+## Chapter 3: collaboration
+
+Les objectifs du projet:
+
+1\) Inventorier et cartographier les infrastructures vertes déployées depuis 2000 dans les municipalités du Québec ;
+
+**2) Examiner la fourniture des bénéfices écologiques des infrastructures vertes à Montréal et Trois-Rivières utilisant les mesures de la chaleur, de la structure de la végétation, de la biodiversité et d'autres caractéristiques physiques ;**
+
+3\) Évaluer les impacts sociaux des infrastructures vertes à Montréal et Trois Rivières à travers la perception, l'expérience et l'engagement de la population locale envers ces infrastructures
+
+## Chapter 3: ecological benefits
+
+-   Our team's responsibility to assess the *ecological benefits* of green infrastructure in Montreal + Trois-Rivières
+
+-   Green infrastructure = ruelles vertes + sidewalk gardens
+
+-   Ecological benefits:
+
+    -   heat mitigation (ruelles only)
+
+    -   habitat connectivity
+
+    -   habitat provisioning
+
+    -   stormwater mitigation
+
+## Chapter 3: habitat provisioning
+
+-   Assess 40 (?) ruelles vertes and adjacent street boulevards/gardens in Villeray-Saint Michael-Parc Extension & Trois-Rivières
+
+-   Habitat provisioning - efficient but meaningful?
+
+    -   Vegetative complexity
+
+    -   \% cover of graminoids vs non-graminoids
+
+    -   3 most dominant flowering plant species
+
+    -   Tree species + size for all trees present
+
+    -   Canopy cover
+
+## Chapter 3: site selection
+
+-   my project wants to assess how ecological benefits, social perceptions, and gentrification all interact
+
+-   how to choose sites to make sure I have enough of a gradient for each of these variables?
+
+
+## Chapter 3: site selection
+
+![](presentation_imgs/thumbnail_image001.jpg)
