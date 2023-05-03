@@ -4,8 +4,8 @@ author: Isabella C. Richmond, PhD Candidate
 date: May 5, 2023
 format: 
   revealjs:
-    theme: simple
-    incremental: true
+    theme: default
+    incremental: false
     slide-number: c
     show-slide-number: all
 ---
@@ -16,9 +16,7 @@ format:
 2.  What I am planning to do this upcoming year
 3.  Discussion points
 
-## The past year
-
-*Academic*
+## The past year: academic
 
 -   Presented at CSEE-ESA (Ch 1)
 -   Ran a 4 month field season in Montréal (Ch 2)
@@ -27,9 +25,7 @@ format:
 -   Switched projects for ch 3 + planned (planning) a field season
 -   Did my first two peer reviews, with Carly
 
-## The past year
-
-*Side projects*
+## The past year: side projects
 
 -   Submitted two papers (BSc work)
 
@@ -39,9 +35,7 @@ format:
 
     -   Using the data from this project to write a separate paper with Hiên's team and Carly
 
-## The past year
-
-*Teaching*
+## The past year: teaching
 
 -   Currently TAing with Carly as part of the "Infusing Black Scholarship" pilot program
 
@@ -49,9 +43,7 @@ format:
 
 -   Completed the Graduate Seminar in Teaching offered by CTL
 
-## The past year
-
-*Outreach*
+## The past year: outreach
 
 -   Regular Skype-a-Scientist meetings around the world
 
@@ -61,9 +53,7 @@ format:
 
 -   Concordia's 4th space interview with Carly
 
-## The past year
-
-*Service*
+## The past year: service
 
 -   Graduate student mentor for the biology department
 
@@ -73,7 +63,7 @@ format:
 
 -   Graduate student representative for the Concordia Graduate Curriculum Committee
 
-## Upcoming Year
+## Upcoming year
 
 -   Poster presentation at CSEE (Ch 1)
 
@@ -85,4 +75,4 @@ format:
 
 -   & progress on all side projects and Ch 1 (of course!)
 
-## Discussion - Chapter 3
+## Discussion: Chapter 3
